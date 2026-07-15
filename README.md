@@ -4,7 +4,7 @@ A real-time driver drowsiness detection system built with the Luxonis OAK-D ster
 
 Designed as a proof-of-concept for in-cabin driver monitoring systems (DMS) — the type of application that runs on NXP S32G or i.MX8 class ECUs in production vehicles.
 
----
+![oak-d-driver-monitor Architecture — OAK-D + host drowsiness pipeline](./oak-d-driver-monitor-architecture.svg)
 
 ## What it detects
 
