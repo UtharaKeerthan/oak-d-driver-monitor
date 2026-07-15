@@ -236,14 +236,6 @@ State: DROWSY   (red overlay, continuous alarm)
     ▼
 State: ALERT    (reset)
 ```
-
----
-
-## Related projects
-
-- [embedded-isp-pipeline](https://github.com/yourname/embedded-isp-pipeline) — the C++ ISP pipeline this project complements thematically, showing embedded camera processing without hardware
-- [embedsentinel](https://github.com/yourname/embedsentinel) — multi-agent AI system that analyses the ISP C++ codebase (not this project)
-
 ---
 
 ## Hardware requirements
